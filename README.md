@@ -5,5 +5,5 @@ Classic Pong game recreated in Python with Pygame
 >>PyGame
 
 ###Controls####
-Up and Down arrow keys for movement
-Spacebar to select
+>>Up and Down arrow keys for movement
+>>Spacebar to select
